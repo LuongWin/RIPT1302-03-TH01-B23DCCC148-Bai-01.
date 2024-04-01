@@ -1,0 +1,67 @@
+h1 {   
+    font-family:"Blogger Sans";
+    font-size: 130px;
+    color: rgb(9, 213, 213);
+    position: absolute;
+    top : 35%;
+    right: 32%;
+    
+    }
+    .box1 {
+        background-color: rgb(9, 9, 9);
+        width: 170px;
+        height: 170px;
+        position: absolute;
+        border-radius: 100px;
+        top: 44%;
+        right: 30.7%;}
+        
+    .box2 {
+            background-color: rgb(9, 9, 9);
+            width: 170px;
+            height: 170px;
+            position: absolute;
+            border-radius: 100px;
+            top: 44%;
+            right: 46.9%;}
+    .box3 {
+                background-color: rgb(9, 9, 9);
+                width: 170px;
+                height: 170px;
+                position: absolute;
+                border-radius: 100px;
+                top: 44%;
+                right: 62.5%;}
+            
+h2 {
+font-family:"Blogger Sans";
+font-size: 50px;
+color: rgb(213, 101, 9);
+position: absolute;
+top : 30%;
+right: 36%;
+}
+h3 {
+    font-family:"Blogger Sans";
+    font-size: 50px;
+    color: rgb(213, 101, 9);
+    position: absolute;
+    top : 60%;
+    right: 66.2%;
+    }
+h4 {
+        font-family:"Blogger Sans";
+        font-size: 50px;
+        color: rgb(213, 101, 9);
+        position: absolute;
+        top : 58.0%;
+        right: 49.3%;
+        }
+h5 {
+            font-family:"Blogger Sans";
+            font-size: 50px;
+            color: rgb(213, 101, 9);
+            position: absolute;
+            top : 55.7%;
+            right: 23%;
+            }
